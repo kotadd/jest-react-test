@@ -14,7 +14,9 @@
         "statements": 90
       }
     },
-    "coverageReporters": ["text"]
+    "coverageReporters": [
+      "text"
+    ]
   },
   "version": "0.1.0",
   "private": true,
@@ -27,7 +29,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --env=node",,
+    "test": "react-scripts test --env=node",
     "test:debug": "react-scripts --inspect-brk test --runInBand --no-cache",
     "eject": "react-scripts eject"
   },
